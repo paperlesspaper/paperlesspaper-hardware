@@ -2,6 +2,8 @@
 
 Here you will find the source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame.
 
+![detail image of the pcb](images/pcb-detail.png)
+
 ### What you need
 
 Software:

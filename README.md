@@ -2,6 +2,21 @@
 
 Here you will find the source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame.
 
+### What you need
+
+Software:
+
+- Autodesk Fusion 360
+
+Manufacture:
+
+- 3D printer (for battery holder and for fixtures/carriers)
+- laser cutter (or CNC) for back panel of the photo frame
+
+Hardware (suggested):
+
+- Standard picture-frame with turn buttons or spring clips
+
 ### Files
 
 #### paper7-inside.f3z

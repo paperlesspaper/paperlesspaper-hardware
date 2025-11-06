@@ -1,6 +1,8 @@
 ### Hardware
 
-Here you will find the source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame.
+Here you will find all source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame.
+
+You need Fusion 360 to open and edit these files.
 
 ![detail image of the pcb](images/pcb-detail.png)
 
@@ -19,9 +21,11 @@ Hardware (suggested):
 
 - Standard picture-frame with turn buttons or spring clips
 
-### Files
+### Source files
 
 #### paper7-inside.f3z
+
+![detail image of the pcb](images/pcb-and-3d-print.png)
 
 The inner carrier (sub-frame) that the PCB attaches to. Contains the PCB and 3D printed parts for USB connector, battery holder and distance elements.
 

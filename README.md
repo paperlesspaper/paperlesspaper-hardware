@@ -6,6 +6,10 @@ Here you will find all source files of our PCB design and hardware CAD files use
 
 There is also a short [blog post](https://paperlesspaper.de/en/blog/open-hardware) available.
 
+### How it looks inside
+
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/_s4ODb-LQBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### What you need
 
 Software:

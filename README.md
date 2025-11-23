@@ -1,14 +1,14 @@
 ### [paperlesspaper](https://paperlesspaper.de/en) e-Paper Photo Frame Hardware
 
-Here you will find all source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame which has a Spectra 6 color EInk display.
-
-![pcb side by side](images/paper7/photo-frames.jpg)
-
-There is also a short [blog post](https://paperlesspaper.de/en/blog/open-hardware) available.
-
 ### How it looks inside
 
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/_s4ODb-LQBI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/shorts/_s4ODb-LQBI" target="_blank"><img src="images/paper7/sequence.gif" width="200" /></a>
+
+Here you will find all source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame which has a Spectra 6 color EInk display.
+
+[![pcb side by side](images/paper7/photo-frames.jpg)](https://paperlesspaper.de/en)
+
+There is also a short [blog post](https://paperlesspaper.de/en/blog/open-hardware) available.
 
 ### What you need
 

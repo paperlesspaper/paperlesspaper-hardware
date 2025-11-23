@@ -1,27 +1,33 @@
 ### Hardware
 
-Here you will find all source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame.
+Here you will find all source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame which has a Spectra 6 color EInk display.
 
-You need Fusion 360 to open and edit these files.
+![pcb side by side](images/paper7/photo-frames.jpg)
 
-![detail image of the pcb](images/paper7/pcb-detail.png)
+There is also a short [blog post](https://paperlesspaper.de/en/blog/open-hardware) available.
 
 ### What you need
 
 Software:
 
 - Autodesk Fusion 360
+- Adobe Illustrator
+
+![pcb side by side](images/paper7/pcb-side-by-side.jpg)
 
 Manufacture:
 
 - 3D printer (for battery holder and for fixtures/carriers)
 - laser cutter (or CNC) for back panel of the photo frame
+- manufacturer like JLCPCB for the PCB (more info soon)
 
-Hardware (suggested):
+Hardware:
 
 - Standard picture-frame with turn buttons or spring clips
 
 ### Source files
+
+![detail image of the pcb](images/paper7/pcb-detail.png)
 
 #### paper7-inside.f3z
 
@@ -47,3 +53,12 @@ Ensures the visible window is perfectly centered and parallel.
 ![detail image of the pcb](images/paper7/pcb-display-applicance.png)
 
 A jig to hold the display/appliance while you bond it. Keeps the panel centered relative to the frame opening.
+
+#### lasercut/Lasercut-back-generic.ai and .svg
+
+The lasercut source files to create the backside of the picture frame.
+
+#### 3D print (battery compartment & spacers)
+
+For the 3D printed files you can find the replacement parts also at [Makerworld](https://makerworld.com/de/models/1668788-paper-7-battery-compartment#profileId-1766474).
+The recommended material is PETG. There are no screws needed. Only the battery cover needs to be glued for better durability. Use regular superglue to glue it.

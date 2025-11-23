@@ -29,36 +29,40 @@ Hardware:
 
 ### Source files
 
+All files can be found inside [/paper7](./paper7/).
+
 ![detail image of the pcb](images/paper7/pcb-detail.png)
 
-#### paper7-inside.f3z
+#### [paper7-inside.f3z](./paper7/paper7-inside.f3z)
 
 ![detail image of the pcb](images/paper7/pcb-and-3d-print.png)
 
 The inner carrier (sub-frame) that the PCB attaches to. Contains the PCB and 3D printed parts for USB connector, battery holder and distance elements.
 
-#### paper7-picture-frame.f3z
+#### [paper7-picture-frame.f3z](./paper7/paper7-picture-frame.f3z)
 
 ![detail image of the pcb](images/paper7/picture-frame.png)
 
 The picture frame. Used to create the laser cut on the backside. Fits the "inside".
 
-#### paper7-passepartout-appliance-fixture.f3z
+#### [paper7-passepartout-appliance-fixture.f3z](./paper7/paper7-passepartout-appliance-fixture.f3z)
 
 ![detail image of the pcb](images/paper7/pcb-passepartout-applicance.png)
 
 A slimmer jig for aligning the display with a passe-partout / mat.
 Ensures the visible window is perfectly centered and parallel.
 
-#### paper7-display-appliance-fixture.f3z
+#### [paper7-display-appliance-fixture.f3z](./paper7/paper7-display-appliance-fixture.f3z)
 
 ![detail image of the pcb](images/paper7/pcb-display-applicance.png)
 
 A jig to hold the display/appliance while you bond it. Keeps the panel centered relative to the frame opening.
 
-#### lasercut/Lasercut-back-generic.ai and .svg
+#### [lasercut/Lasercut-back-generic.ai](./lasercut/Lasercut-back-generic.ai) and [.svg](./lasercut/Lasercut-back-generic.svg)
 
 The lasercut source files to create the backside of the picture frame.
+
+Color mapping: `red: cut`, `black: mark`, `green: ignore`
 
 #### 3D print (battery compartment & spacers)
 

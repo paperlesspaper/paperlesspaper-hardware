@@ -12,8 +12,8 @@ There is also a short [blog post](https://paperlesspaper.de/en/blog/open-hardwar
 
 Software:
 
-- Autodesk Fusion 360
-- Adobe Illustrator
+- [Autodesk Fusion 360](https://www.autodesk.com/de/education/edu-software/fusion) (free version is good enough, for everything except PCB)
+- Adobe Illustrator (only for the laser of the backside)
 
 ![pcb side by side](images/paper7/pcb-side-by-side.jpg)
 

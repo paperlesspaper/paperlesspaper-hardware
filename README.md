@@ -2,7 +2,7 @@
 
 Here you will find all source files of our PCB design and hardware CAD files used for the [paperlesspaper](https://paperlesspaper.de/en) ePaper photo frame which has a Spectra 6 color EInk display.
 
-[Documenation about manufacturing the parts](https://docs.paperlesspaper.de/manufacturing/overview)
+[Documentation about manufacturing the parts](https://docs.paperlesspaper.de/manufacturing/overview)
 
 <a href="https://www.youtube.com/shorts/_s4ODb-LQBI" target="_blank"><img src="images/paper7/sequence.gif" width="180" /></a>
 

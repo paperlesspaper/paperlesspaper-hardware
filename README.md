@@ -35,6 +35,19 @@ All files can be found inside [/paper7](./paper7/).
 
 ![detail image of the pcb](images/paper7/pcb-detail.png)
 
+#### [pcb/](./paper7/pcb/)
+
+PCB design source files and manufacturing exports for the Paper 7 board.
+
+- [EPAPER73_V2.fsch](./paper7/pcb/EPAPER73_V2.fsch) and [EPAPER73_V2.fbrd](./paper7/pcb/EPAPER73_V2.fbrd): schematic and board source files for Autodesk Fusion Electronics.
+- [EPAPER73_V2_sch.jpg](./paper7/pcb/EPAPER73_V2_sch.jpg) and [EPAPER73_V2_pcb.jpg](./paper7/pcb/EPAPER73_V2_pcb.jpg): preview images of the schematic and PCB layout.
+- [paper7_v2_gerber.zip](./paper7/pcb/paper7_v2_gerber.zip): Gerber and drill files for PCB fabrication, including copper, soldermask, silkscreen, solderpaste, profile and drill layers.
+- [epaper-bom-V2.xlsx](./paper7/pcb/epaper-bom-V2.xlsx): bill of materials for PCB assembly.
+- [epaper-pp-V2.xlsx](./paper7/pcb/epaper-pp-V2.xlsx): pick-and-place / component placement file for PCB assembly.
+- [EPAPER73_V2.3mf](./paper7/pcb/EPAPER73_V2.3mf): 3D export of the PCB for mechanical checks and fit validation.
+
+Use the Gerber zip together with the BOM and pick-and-place spreadsheet when ordering an assembled PCB. Use the `.fsch` and `.fbrd` files if you want to inspect or modify the design.
+
 #### [paper-7-inside.f3z](./paper7/paper-7-inside.f3z)
 
 ![detail image of the pcb](images/paper7/pcb-and-3d-print.png)

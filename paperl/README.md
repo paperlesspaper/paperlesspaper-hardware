@@ -4,7 +4,11 @@ Hardware files for the 13.3-inch OpenPaper L e-Paper photo frame. This directory
 
 ## Fusion CAD
 
-[![OpenPaper L picture frame](../images/paperl/picture-frame.png)](./paper-l-picture-frame.f3z)
+| Front | Back (battery cover hidden) |
+| --- | --- |
+| [![OpenPaper L front](../images/paperl/picture-frame.png)](../images/paperl/picture-frame.png) | [![OpenPaper L back](../images/paperl/picture-frame-back.png)](../images/paperl/picture-frame-back.png) |
+
+The frame, inner-assembly and 3D-PCB images are direct **1800 × 1400 px Fusion exports**, using shaded surfaces with sketches, construction points, axes, planes, joint origins and joint markers hidden. Click an image to open the full resolution.
 
 - [paper-l-picture-frame.f3z](./paper-l-picture-frame.f3z): complete **OpenPaper L Bilderrahmen** assembly, including the wooden frame, glass, passe-partout, back panel, internal carrier, PCB and display references.
 
@@ -23,7 +27,7 @@ Fusion reports two unresolved rigid-group features named `Starre Gruppe 1` in th
 
 ## 3D print
 
-![OpenPaper L inner assembly](../images/paperl/inside.png)
+[![OpenPaper L inner assembly](../images/paperl/inside.png)](../images/paperl/inside.png)
 
 The [stl/](./stl/) files were exported from the above picture-frame assembly in **millimetres**, using binary STL and Fusion's high mesh refinement. Each file contains one part, without the hidden battery-compartment context body.
 
@@ -39,7 +43,7 @@ Choose orientation, material and the required number of copies in your slicer fo
 
 ## PCB
 
-[![OpenPaper L PCB](../images/paperl/pcb.png)](./pcb/)
+[![OpenPaper L PCB](../images/paperl/pcb.png)](../images/paperl/pcb.png)
 
 - [EPAPER133_V2.fsch](./pcb/EPAPER133_V2.fsch): native Fusion Electronics schematic, version 5.
 - [EPAPER133_V2.fbrd](./pcb/EPAPER133_V2.fbrd): native Fusion Electronics board, version 13, matching the 2D-board reference recorded in the exported 3D PCB.

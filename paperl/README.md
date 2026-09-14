@@ -8,7 +8,7 @@ Hardware files for the 13.3-inch OpenPaper L e-Paper photo frame. This directory
 | --- | --- |
 | [![OpenPaper L front](../images/paperl/picture-frame.png)](../images/paperl/picture-frame.png) | [![OpenPaper L back](../images/paperl/picture-frame-back.png)](../images/paperl/picture-frame-back.png) |
 
-The frame, inner-assembly and 3D-PCB images are direct **1800 × 1400 px Fusion exports**, using shaded surfaces with sketches, construction points, axes, planes, joint origins and joint markers hidden. Click an image to open the full resolution.
+The frame, inner-assembly and 3D-PCB images are direct **1800 × 1400 px Fusion exports**, using shaded surfaces with visible edge outlines. Sketches, construction points, axes, planes, joint origins and joint markers are hidden. Click an image to open the full resolution.
 
 - [paper-l-picture-frame.f3z](./paper-l-picture-frame.f3z): complete **OpenPaper L Bilderrahmen** assembly, including the wooden frame, glass, passe-partout, back panel, internal carrier, PCB and display references.
 

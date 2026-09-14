@@ -1,0 +1,3 @@
+# Preserve native Illustrator files and manufacturing CSV exports byte for byte.
+*.ai binary
+pcb/manufacturing-*/*.csv -text whitespace=cr-at-eol

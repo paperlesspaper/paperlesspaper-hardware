@@ -31,7 +31,16 @@ Hardware:
 
 ### Source files
 
-All files can be found inside [/paper7](./paper7/).
+| Model | Hardware files |
+| --- | --- |
+| Paper 7 / OpenPaper 7 | [paper7/](./paper7/) — PCB, Fusion CAD, fixtures, laser-cut files and STL parts |
+| OpenPaper L (13.3-inch) | [paperl/](./paperl/) — Fusion assembly, PCB sources, manufacturing archive, laser-cut files and STL parts |
+
+See the [OpenPaper L hardware guide](./paperl/README.md) for file descriptions, source versions and manufacturing notes.
+
+### Paper 7 / OpenPaper 7
+
+The following files can be found inside [/paper7](./paper7/).
 
 ![detail image of the pcb](images/paper7/pcb-detail.png)
 

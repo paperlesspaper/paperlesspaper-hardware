@@ -1,0 +1,17 @@
+version: '1.0.0'
+name: 'paperlesspaper e-Paper Photo Frame Hardware'
+description: 'https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/main/README.md'
+website: 'https://paperlesspaper.de/en'
+images:
+  - 'https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/main/images/paper7/photo-frames.jpg'
+  - 'https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/main/images/paper7/pcb-side-by-side.jpg'
+  - 'https://raw.githubusercontent.com/paperlesspaper/paperlesspaper-hardware/main/images/paperl/inside.png'
+documentation: 'https://docs.paperlesspaper.de/manufacturing/overview'
+issues: 'https://github.com/paperlesspaper/paperlesspaper-hardware/issues'
+links:
+  - name: 'Hardware source repository'
+    url: 'https://github.com/paperlesspaper/paperlesspaper-hardware'
+  - name: 'OpenPaper L hardware guide'
+    url: 'https://github.com/paperlesspaper/paperlesspaper-hardware/blob/main/paperl/README.md'
+  - name: 'About the open hardware project'
+    url: 'https://paperlesspaper.de/en/blog/open-hardware'
